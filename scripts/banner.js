@@ -11,13 +11,13 @@ function displayBanner(banner) {
         case 0: // Sunday
             break;
         case 1: // Monday
-            message = "Come join us for the Tarija City Chamber meet and greet on Wednesday at 7:00 p.m.";
+            message = "Come join us and get special discounts on Wednesday from 8:00 a.m. to 11:00 a.m.";
             break;
         case 2: // Tuesday
-            message = "Come join us for the Tarija City Chamber meet and greet on Wednesday at 7:00 p.m.";
+            message = "Come join us and get special discounts on Wednesday from 8:00 a.m. to 11:00 a.m.";
             break;
         case 3: // Wednesday
-            message = "Come join us for the Tarija City Chamber meet and greet on Wednesday at 7:00 p.m.";
+            message = "Come join us and get special discounts on Wednesday from 8:00 a.m. to 11:00 a.m.";
             break;
         case 4: // Thursday
             break;
