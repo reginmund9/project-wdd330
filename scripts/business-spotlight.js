@@ -1,5 +1,5 @@
 // Store the resource of the JSON URL file into a variable.
-const requestURL = '/data/members.json';
+const requestURL = '../data/members.json';
 
 /* JSON file object information:
  * 'businesses' - contains a list of objects.
