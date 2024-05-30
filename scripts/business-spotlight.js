@@ -22,9 +22,9 @@ let npList = [];
 let bronzeList = [];
 let silverGoldList = [];
 let spotlightList = [];
-var choice1 = {name: '', name_add: '', address: '', address_end: '', phone:'', url:'', logo:'../images/placeholder/placeholder-300x200.webp', mem_lvl: 'NP'};
-var choice2 = {name: '', name_add: '', address: '', address_end: '', phone:'', url:'', logo:'../images/placeholder/placeholder-300x200.webp', mem_lvl: 'NP'};
-var choice3 = {name: '', name_add: '', address: '', address_end: '', phone:'', url:'', logo:'../images/placeholder/placeholder-300x200.webp', mem_lvl: 'NP'};
+var choice1 = {name: '', name_add: '', address: '', address_end: '', phone:'', url:'', logo:'../images/placeholder-300x200.webp', mem_lvl: 'NP'};
+var choice2 = {name: '', name_add: '', address: '', address_end: '', phone:'', url:'', logo:'../images/placeholder-300x200.webp', mem_lvl: 'NP'};
+var choice3 = {name: '', name_add: '', address: '', address_end: '', phone:'', url:'', logo:'../images/placeholder-300x200.webp', mem_lvl: 'NP'};
 
 fetch(requestURL)
   .then(function (response) { // returns a Promise which will be used as an argument.
