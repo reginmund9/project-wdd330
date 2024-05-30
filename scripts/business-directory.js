@@ -1,5 +1,5 @@
 // Store the resource of the JSON URL file into a variable.
-const requestURL = 'project-wdd330/data/members.json';
+const requestURL = 'data/members.json';
 
 /* JSON file object information:
  * 'businesses' - contains a list of objects.
@@ -93,3 +93,4 @@ function viewList() {
   display.classList.remove("view-card");
   display.classList.add("view-list");
 }
+
