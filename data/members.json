@@ -1,94 +1,68 @@
 {
     "businesses": [
     {
-        "name": "Big 5 Sporting Goods",
+        "name": "Workwear",
         "name_add": "",
-        "address": "960 E 10600 S",
-        "address_end": "Sandy, UT 84094",
-        "phone": "18015713842",
-        "url": "http://www.big5sportinggoods.com/",
-        "logo": "../chamber/images/businesses/big5-sporting-goods-300x200.jpg",
+        "address": "Building your Indentity",
+        "logo": "images/bus/workwear1.webp",
         "mem_lvl": "Gold"
     },
     {
-        "name": "Smiths",
+        "name": "Workwear",
         "name_add": "",
-        "address": "10305 S 1300 E",
-        "address_end": "Sandy, UT 84094",
-        "phone": "18015721396",
-        "url": "https://www.smithsfoodanddrug.com/",
-        "logo": "../chamber/images/businesses/smiths-300x200.jpg",
+        "address": "Building your Indentity",
+        "logo": "images/bus/works.webp",
         "mem_lvl": "Bronze"
     },
     {
-        "name": "Quick Quack Car Wash",
+        "name": "Casual wear",
         "name_add": "",
-        "address": "9750 S 700 E",
-        "address_end": "Sandy, UT 84070",
-        "phone": "+18019482524",
-        "url": "https://www.dontdrivedirty.com/",
-        "logo": "../chamber/images/businesses/quick-quack-300x200.jpg",
+        "address": "Moments of Relax",
+        "logo": "images/bus/casual1.jpg",
         "mem_lvl": "Silver"
     },
     {
-        "name": "Sunnyside Corals",
+        "name": "Casual wear",
         "name_add": "",
-        "address": "1913 High Point Ln",
-        "address_end": "Sandy, UT 84092",
-        "phone": "18013001228",
-        "url": "http://www.sunnysidecorals.com/",
-        "logo": "../chamber/images/businesses/sunnyside-corals-300x200.jpg",
+        "address": "Moments of Relax",
+        "logo": "images/bus/casual2.png",
         "mem_lvl": "Silver"
     },
     {
-        "name": "The Home Depot",
+        "name": "Formal wear",
         "name_add": "",
-        "address": "9570 Highland Dr.",
-        "address_end": "Sandy, UT 84092",
-        "phone": "18016196261",
-        "url": "https://www.homedepot.com/",
-        "logo": "../chamber/images/businesses/the-home-depot-300x200.jpg",
+        "address": "Special Moments",
+        "logo": "images/bus/formal5.jpg",
         "mem_lvl": "Silver"
     },
     {
-        "name": "Tango Painting",
-        "name_add": "LLC",
-        "address": "10268 S Peony Way",
-        "address_end": "Sandy, UT 84094",
-        "phone": "13852966438",
-        "url": "https://www.tangopainting.com/",
-        "logo": "../chamber/images/businesses/tango-painting-300x200.jpg",
+        "name": "Formal wear",
+        "name_add": "",
+        "address": "Special Moments",
+        "logo": "images/bus/formal4.webp",
         "mem_lvl": "Bronze"
     },
     {
-        "name": "Baskin Robins",
+        "name": "Sports wear",
         "name_add": "",
-        "address": "9497 S 700 E",
-        "address_end": "Sandy, UT 84070",
-        "phone": "+18015724064",
-        "url": "https://www.baskinrobbins.com/",
-        "logo": "../chamber/images/businesses/baskin-robins-300x200.jpg",
+        "address": "Great Memories",
+        "logo": "images/bus/sport3.jfif",
         "mem_lvl": "Silver"
     },
     {
-        "name": "Roxberry Juice Co.",
-        "name_add": "Sandy",
-        "address": "1922 E 9400 S",
-        "address_end": "Sandy, UT 84093",
-        "phone": "18016769211",
-        "url": "https://www.roxberryjuice.com/",
-        "logo": "../chamber/images/businesses/roxberry-juice-300x200.jpg",
+        "name": "Sports wear",
+        "name_add": "",
+        "address": "Great Memories",
+        "logo": "images/bus/sport2.jpg",
         "mem_lvl": "Silver"
     },
     {
-        "name": "Key Bank",
+        "name": "Accessories",
         "name_add": "",
-        "address": "8625 S Highland Dr",
-        "address_end": "Sandy, UT 84093",
-        "phone": "+18019373000",
-        "url": "https://www.key.com/",
-        "logo": "../chamber/images/businesses/key-bank-300x200.jpg",
+        "address": "Having fun with friends!",
+        "logo": "images/bus/acce1.webp",
         "mem_lvl": "Gold"
     }
     ]
 }
+
