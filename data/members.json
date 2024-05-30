@@ -4,63 +4,63 @@
         "name": "Workwear",
         "name_add": "",
         "address": "Building your Indentity",
-        "logo": "images/workwear1.webp",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Gold"
     },
     {
         "name": "Workwear",
         "name_add": "",
         "address": "Building your Indentity",
-        "logo": "images/works.webp",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Bronze"
     },
     {
         "name": "Casual wear",
         "name_add": "",
         "address": "Moments of Relax",
-        "logo": "images/casual1.jpg",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Silver"
     },
     {
         "name": "Casual wear",
         "name_add": "",
         "address": "Moments of Relax",
-        "logo": "images/casual2.png",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Silver"
     },
     {
         "name": "Formal wear",
         "name_add": "",
         "address": "Special Moments",
-        "logo": "images/formal5.jpg",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Silver"
     },
     {
         "name": "Formal wear",
         "name_add": "",
         "address": "Special Moments",
-        "logo": "images/formal4.webp",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Bronze"
     },
     {
         "name": "Sports wear",
         "name_add": "",
         "address": "Great Memories",
-        "logo": "/images/sport3.jfif",
+        "logo": "/images/quick.jpg",
         "mem_lvl": "Silver"
     },
     {
         "name": "Sports wear",
         "name_add": "",
         "address": "Great Memories",
-        "logo": "images/sport2.jpg",
+        "logo": "images/quick.jpg",
         "mem_lvl": "Silver"
     },
     {
         "name": "Accessories",
         "name_add": "",
         "address": "Having fun with friends!",
-        "logo": "/images/acce1.webp",
+        "logo": "/images/quick.jpg",
         "mem_lvl": "Gold"
     }
     ]

@@ -8,7 +8,7 @@ const requestURL = '/data/members.json';
  * 'address' - holds the address of the company.
  * 'logo' - contains a 300x200px image of the company's logo.
  * 'mem_lvl' - holds the current membership level of the company. 
- */
+*/   
 
 const cards = document.querySelector('#directory-area');
 
