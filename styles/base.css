@@ -64,6 +64,7 @@ button, input[type="submit"] {
 
 button:hover, input[type="submit"]:hover {
     cursor: pointer;
+    color: var(--blue);
     background-color: var(--secondary);
 }
 
@@ -75,7 +76,7 @@ button:active, input[type="submit"]:active {
 
 body {
     margin: 0 auto;
-    background-color: var(--black);
+   
 }
 
 /* Header */
@@ -582,7 +583,7 @@ textarea {
 
 /* Join Page CSS Effects */
 input[type="text"]:valid, input[type="tel"]:valid, input[type="email"]:valid {
-    border-left: 8px solid var(--good);
+    border-left: 8px solid var(--secondary);
 }
 
 input[type="text"]:invalid, input[type="tel"]:invalid, input[type="email"]:invalid {
@@ -590,8 +591,8 @@ input[type="text"]:invalid, input[type="tel"]:invalid, input[type="email"]:inval
 }
 
 input:focus, textarea:focus {
-    background-color: var(--secondary);
-    color: var(--white);
+    background-color: var(--white);
+    color: var(--black);
 }
 
 .required {
@@ -695,9 +696,7 @@ input:focus, textarea:focus {
     margin: 0px;
 }
 
-.view-list .card:nth-child(even) {
-    background-color: var(--shading);
-}
+
 
 .view-list .card-titles { grid-column: 1/3; grid-row: 1/2; text-align: left; }
 .view-list .card-address { grid-column: 1/2; grid-row: 2/3; }

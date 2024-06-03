@@ -39,8 +39,8 @@ function displayEachObj(business) {
   // Change the textContent property of the h3 element to contain the prophet's full name
   h3.textContent = business.name;
   sh.textContent = business.name_add;
-  h4_1.textContent = "Address: "
-  par1.textContent = business.address;
+  h4_1.textContent = ""
+  par1.textContent = business.goal;
 
   // Build the image attributes by using the setAttribute method for the src, alt, and loading attribute values. (Fill in the blank with the appropriate variable).
   //image.setAttribute('src', business.logo);

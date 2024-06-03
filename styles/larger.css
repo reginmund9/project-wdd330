@@ -114,7 +114,7 @@
     }
     
     .view-list .card:nth-child(even) .card-titles {
-        background-color: var(--black);
+        background-color: var(--primary);
     }
 
     .view-list .card-titles { grid-column: 2/3; grid-row: 1/2; }

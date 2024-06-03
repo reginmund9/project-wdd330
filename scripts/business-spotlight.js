@@ -19,9 +19,9 @@ let npList = [];
 let bronzeList = [];
 let silverGoldList = [];
 let spotlightList = [];
-var choice1 = {name: '', name_add: '', address: '', logo:'..images/placeholder-300x200.webp', mem_lvl: 'NP'};
-var choice2 = {name: '', name_add: '', address: '', logo:'..images/placeholder-300x200.webp', mem_lvl: 'NP'};
-var choice3 = {name: '', name_add: '', address: '', logo:'..images/placeholder-300x200.webp', mem_lvl: 'NP'};
+var choice1 = {name: '', name_add: '', goal: '', logo:'..images/placeholder-300x200.webp', mem_lvl: 'NP'};
+var choice2 = {name: '', name_add: '', goal: '', logo:'..images/placeholder-300x200.webp', mem_lvl: 'NP'};
+var choice3 = {name: '', name_add: '', goal: '', logo:'..images/placeholder-300x200.webp', mem_lvl: 'NP'};
 
 fetch(requestURL)
   .then(function (response) { // returns a Promise which will be used as an argument.
@@ -111,13 +111,13 @@ function displaySpotlights(choice1, choice2, choice3) {
 
     // Change the textContent property of the h2 element to contain the prophet's full name
     title1.textContent = choice1.name;
-    par1.textContent = choice1.address;
+    par1.textContent = choice1.goal;
 
     title2.textContent = choice2.name;
-    par2.textContent = choice2.address;
+    par2.textContent = choice2.goal;
 
     title3.textContent = choice3.name;
-    par3.textContent = choice3.address;
+    par3.textContent = choice3.goal;
 
     // Build the image attributes by using the setAttribute method for the src, alt, and loading attribute values.
     image1.setAttribute('src', choice1.logo);
